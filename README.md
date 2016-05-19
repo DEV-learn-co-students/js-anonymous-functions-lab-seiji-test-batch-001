@@ -1,0 +1,1 @@
+# js-anonymous-functions-lab-seiji-test-batch-001
